@@ -11,6 +11,10 @@ Very Sempil Bot Auto Filter bot
 **BEFORE YOU DEPLOY ON HEROKU, YOU SHOULD FORK THE REPO**<br>
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)</br>
 
+2Nd Url
+<a href="https://heroku.com/deploy?template=https://github.com/Ssfive123/killadi-soman">
+
+
 #### Deploy in your VPS
 ````bash
 git clone https://github.com/DKBOTx/private-bot
