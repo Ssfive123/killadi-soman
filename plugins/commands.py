@@ -23,7 +23,7 @@ async def start(client, message):
     if message.chat.type in ['group', 'supergroup']:
         buttons = [
             [
-                InlineKeyboardButton('sᴜᴘᴘᴏʀᴛ', url='https://t.me/MovieHubOtt')
+                InlineKeyboardButton('sᴜᴘᴘᴏʀᴛ', url='https://t.me/Coby_Support')
             ],
             [
                 InlineKeyboardButton('ʜᴇʟᴘ', url=f"https://t.me/{temp.U_NAME}?start=help"),
@@ -237,8 +237,8 @@ async def start(client, message):
         file_id=file_id,
         caption=f_caption,
         reply_markup=InlineKeyboardMarkup( [ [ InlineKeyboardButton("💌 ᴛɪᴘs", callback_data="tips"),
-                                              InlineKeyboardButton("💝 sʜᴀʀᴇ", url="https://t.me/share/url?url=😱%20MOVIE%20HUB.²·⁰%20😱%0A%0Aഏത്%20അർധരാത്രി%20ചോദിച്ചാലും%20പടം%20കിട്ടും,%20ലോകത്തിലെ%20ഒട്ടുമിക്ക%20ഭാഷകളിലുമുള്ള%20സിനിമകളുടെ%20കളക്ഷൻ..%20❤️%0A%0A👇%20GROUP%20LINK%20👇%0A@movie_hub_main%0A@movie_hub_main%0A@movie_hub_main") ],
-                                            [ InlineKeyboardButton("🔮 ᴍᴏᴠɪᴇ ᴜᴘᴅᴀᴛᴇs 🔮", url="https://t.me/moviehubgroupp") ] ] ),
+                                              InlineKeyboardButton("💝 ᴄʜᴀɴɴᴇʟ", url="https://t.me/FilmCompanyChannel") ],
+                                            [ InlineKeyboardButton("🔮 ᴍᴏᴠɪᴇ ᴜᴘᴅᴀᴛᴇs 🔮", url="https://t.me/FilmCompanyChannel") ] ] ),
                                             
         protect_content=True if pre == 'filep' else False,
         )
