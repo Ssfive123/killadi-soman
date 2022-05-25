@@ -12,8 +12,15 @@ Very Sempil Bot Auto Filter bot
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)</br>
 
 2Nd Url
-<a href="https://heroku.com/deploy?template=https://github.com/Ssfive123/killadi-soman">
+<a href="https://heroku.com/deploy?template=https://github.com/Ssfive123/ killadi-soman">
 
+<summary>Deploy To Heroku</summary>
+<br>
+<p>
+<a href="https://heroku.com/deploy?template=https://github.com/Ssfive123/killadi-soman">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
+</p>
 
 #### Deploy in your VPS
 ````bash
